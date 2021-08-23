@@ -17,7 +17,7 @@ NUM num1;
 
 
 //wybor metody za pomoca komendy ...
-// 
+// test commit
 
 
 
